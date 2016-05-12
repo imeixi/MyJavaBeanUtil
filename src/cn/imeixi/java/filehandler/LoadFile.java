@@ -1,4 +1,4 @@
-package cn.imeixi.java.beanUtil;
+package cn.imeixi.java.filehandler;
 
 import java.io.File;
 
